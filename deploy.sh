@@ -21,6 +21,6 @@ git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
  git push -f git@github.com:
-okabe-rintaru/heap-Sorts-Comparison.git master:gh-pages
+okabe-rintaru/compare-matrix-multiply-algos.git master:gh-pages
 
 cd -
