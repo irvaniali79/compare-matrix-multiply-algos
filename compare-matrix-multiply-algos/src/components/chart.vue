@@ -10,16 +10,16 @@ export default {
   data() {
     return {
       series: [{
-        name: "Heapfiy",
-        data: json.heapfiy,
+        name: "Strassen",
+        data: json.strassen
       },
         {
-          name: "Heapsort",
-          data: json.heapsort,
+          name: "DivdeAndConquer",
+          data: json.divdeandconquer,
         },
         {
-          name: "Insert",
-          data: json.insert,
+          name: "Simple",
+          data: json.simple,
         }],
       chartOptions: {
         chart: {
