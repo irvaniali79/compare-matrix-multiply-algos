@@ -87,7 +87,7 @@
     <hr class="mb-0">
 
     <div class="row mt-1 mb-2 ">
-      <a href="https://github.com/okabe-rintaru/heap-Sorts-Comparison" class="p-0 m-0"><img src="../assets/images/GitHub-Mark.1fbf1eeb.png" class="p-0 m-0 github"></a>
+      <a href="https://github.com/okabe-rintaru/compare-matrix-multiply-algos" class="p-0 m-0"><img src="../assets/images/GitHub-Mark.1fbf1eeb.png" class="p-0 m-0 github"></a>
 <!--      <p style="font-size: 11px">-->
 <!--        Project Src : <a href="https://github.com/okabe-rintaru/heap-Sorts-Comparison">https://github.com/okabe-rintaru/heap-Sorts-Comparison</a>-->
 <!--      </p>-->
